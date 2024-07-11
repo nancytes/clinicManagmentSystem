@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php 
+
 include('func.php');  
 include('newfunc.php');
 $con=mysqli_connect("localhost","root","","clinicdb");
